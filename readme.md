@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TreevorXD/](https://github.com/TreevorXD/)
 
-- How to reach me **Discord: Treevor#7440**
+- How to reach me **Discord: TreevorXD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
