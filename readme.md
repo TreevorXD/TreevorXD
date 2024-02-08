@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Treevor</h1>
+<h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treevorxd&label=Profile%20views&color=0e75b6&style=flat" alt="treevorxd" /> </p>
 
-- I’m currently working on [BMOware](https://github.com/TreevorXD/BMOware)
+- I’m currently working on [TBD](https://github.com/)
 
-- I’m currently learning **Javascript and Arduino**
+- I’m currently learning **Javascript and HTML/CSS**
 
 - I’m looking to collaborate on [TBD](TBD)
 
-- I’m looking for help with [BMOware](https://github.com/TreevorXD/BMOware)
+- I’m looking for help with [TBD](https://github.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TreevorXD/](https://github.com/TreevorXD/)
 
